@@ -9,7 +9,8 @@
 # Corrections? Improvements? Create a GitHub issue: 
 # http://github.com/RailsApps/rails-composer/issues
 #----------------------------------------------------------------------------
-*.tar.gz
+ 
+#*.tar.gz
 
 # bundler state
 /.bundle
