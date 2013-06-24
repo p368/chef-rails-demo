@@ -10,7 +10,7 @@
 # http://github.com/RailsApps/rails-composer/issues
 #----------------------------------------------------------------------------
  
-#*.tar.gz
+*.tar.gz
 
 # bundler state
 /.bundle
